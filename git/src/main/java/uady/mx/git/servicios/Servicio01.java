@@ -4,4 +4,6 @@ public class Servicio01 {
 	
 	private String nombre;
 
+	private Integer edad;
+
 }
